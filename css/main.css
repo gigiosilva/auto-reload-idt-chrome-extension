@@ -1,0 +1,50 @@
+body {
+    min-width: 100px;
+    margin: 8px 8px 4px 8px;
+    overflow: hidden;
+    font-size: .8em;
+    font-family: sans-serif
+}
+
+.space-clear {
+    clear: both
+}
+
+input {
+    font-family: sans-serif;
+    font-size: 18pt;
+    margin-left: 5px;
+    padding-left: 2px;
+    padding-right: 3px
+}
+
+#container {
+    width: 190px;
+    height: 128px
+}
+
+.startButton {
+    border-top: 1px solid #96d1f8;
+    background: #2b65e6;
+    padding: 3px 13px;
+    margin-top: 4px;
+    color: #fff;
+    font-size: 22px;
+    font-family: Helvetica,Arial,Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 76px
+}
+
+.stopButton {
+    border-top: 1px solid #d92323;
+    background: #ef2323;
+    padding: 3px 13px;
+    margin-top: 4px;
+    color: #fff;
+    font-size: 22px;
+    font-family: Helvetica,Arial,Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 76px
+}
