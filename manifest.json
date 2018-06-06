@@ -30,9 +30,6 @@
           "scripts/inicialization.js", 
           "scripts/jquery.js",
           "scripts/script.js"
-        ],
-        "css": [
-          "css/main.css"
         ]
       }
   ],
