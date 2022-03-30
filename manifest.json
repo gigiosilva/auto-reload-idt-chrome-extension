@@ -8,8 +8,7 @@
     "tabs",
     "http://*/*",
     "https://*/*",
-    "background",
-    "storage"
+    "background"
   ],
 
   "browser_action": {
